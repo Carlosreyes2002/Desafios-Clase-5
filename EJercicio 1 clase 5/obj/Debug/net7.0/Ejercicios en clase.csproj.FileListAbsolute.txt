@@ -1,0 +1,30 @@
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\bin\Debug\net7.0\Ejercicios en clase.exe
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\bin\Debug\net7.0\Ejercicios en clase.deps.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\bin\Debug\net7.0\Ejercicios en clase.runtimeconfig.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\bin\Debug\net7.0\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\bin\Debug\net7.0\Ejercicios en clase.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\refint\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\Ejercicios en clase.genruntimeconfig.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\obj\Debug\net7.0\ref\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\bin\Debug\net7.0\Ejercicios en clase.exe
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\bin\Debug\net7.0\Ejercicios en clase.deps.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\bin\Debug\net7.0\Ejercicios en clase.runtimeconfig.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\bin\Debug\net7.0\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\bin\Debug\net7.0\Ejercicios en clase.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\refint\Ejercicios en clase.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\Ejercicios en clase.genruntimeconfig.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Ejercicios en clase\EJercicio 1 clase 5\obj\Debug\net7.0\ref\Ejercicios en clase.dll
